@@ -216,7 +216,7 @@ angular
             }, {
                 id: 'link_1',
                 name: 'Link 1 ',
-                state: 'common.link1',
+                url: 'http://common.link1',
                 type: 'link',
                 icon: 'fa fa-check'
             }, {
